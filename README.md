@@ -1,2 +1,3 @@
 # hello-world
-Hollo world repository.
+Hello!
+This is the readme in my hello-world repo.
